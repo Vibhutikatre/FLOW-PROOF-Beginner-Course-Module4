@@ -1,11 +1,7 @@
 # FLOW-PROOF-Beginner-Course-Module4
-In the FLOW PROOF ( Beginner Course ) from the Metacrafters , I have learned about the different access control, access modifiers, and their scopes in the contract.
-
-# Employees Record using Structs in Cadence
-Here I have used the Structs in Cadence Language to make a record of some data of employees.
 
 ## Description
-In the FLOW PROOF ( Beginner Course ) from the Metacrafters,  I have learned about the different access control, access modifiers, and their scopes in the contract.
+In the FLOW PROOF ( Beginner Course ) from the Metacrafters, I have learned about the different access control, access modifiers, and their scopes in the contract.
 
 
 ### Executing program
